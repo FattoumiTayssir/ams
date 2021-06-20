@@ -1,2 +1,2 @@
 # ams
-My article management system (Personal Project)
+Article management system using (Personal Project) using Spring boot
